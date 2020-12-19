@@ -1,0 +1,6 @@
+framework module GXLTestFramework {
+  umbrella header "GXLTestFramework.h"
+
+  export *
+  module * { export * }
+}
