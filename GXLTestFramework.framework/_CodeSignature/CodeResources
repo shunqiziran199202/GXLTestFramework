@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/GXLTestFramework.h</key>
 		<data>
-		E/3M7pZS+7Oao6ipJtAFFlQzCYM=
+		+qDpUDH8kXeX0jKdvdmbX7RhhIs=
 		</data>
 		<key>Headers/TestTool.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/TestView.h</key>
 		<data>
-		iXwBju7fEaP2n9+qi7AaBOwNKP8=
+		scy2zicQdL4V1oJSNuJyMUazPMA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -31,11 +31,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E/3M7pZS+7Oao6ipJtAFFlQzCYM=
+			+qDpUDH8kXeX0jKdvdmbX7RhhIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			ohxajjreSNhKbjfZaXaWVuMxepCY2FrHumesETTNiv8=
+			fJqwDrqYcoVa0CwWqj9r87+2oyCak6okR8Jvr9nIIa4=
 			</data>
 		</dict>
 		<key>Headers/TestTool.h</key>
@@ -53,11 +53,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iXwBju7fEaP2n9+qi7AaBOwNKP8=
+			scy2zicQdL4V1oJSNuJyMUazPMA=
 			</data>
 			<key>hash2</key>
 			<data>
-			9AmRcNyFbhTMUacSw/s2k5EFJzIOeRMFJJtd7TpZZ6w=
+			448r5YOBLjZZmI9A1AyWA3aViL3KLIEJnefokSNmdiM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
