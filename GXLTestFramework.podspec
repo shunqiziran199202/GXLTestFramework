@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GXLTestFramework"
-  spec.version      = "0.0.7"
+  spec.version      = "0.0.8"
   spec.summary      = "项目介绍和使用方法"
 
   # This description is used to generate tags and improve search results.
@@ -91,8 +91,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "GXLTestFramework.framework/**/*"
-  #spec.vendored_frameworks = 'GXLTestFramework'
+  #spec.source_files  = "GXLTestFramework.framework","GXLTestFramework.framework/Headers/*.h"
+  spec.vendored_frameworks = 'GXLTestFramework.framework'
 
 
   #spec.exclude_files = "Classes/Exclude"
