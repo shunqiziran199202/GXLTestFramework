@@ -14,23 +14,15 @@
 		</data>
 		<key>Headers/TestView.h</key>
 		<data>
-		9zSuXxXemeGcF3mNvV0+CLx6iIo=
+		iXwBju7fEaP2n9+qi7AaBOwNKP8=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		4/U2mj//a5jsJleP3W/FEeYrFM0=
 		</data>
-		<key>LICENSE</key>
-		<data>
-		b3UuYRc1ovjotpTlhhIZ0GDvh2s=
-		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		rVrEKAlAUFqc0xxnOaYTh4DHGTA=
-		</data>
-		<key>README.md</key>
-		<data>
-		MMb/H/m4g96joTmjCyTbnLxBjbA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -61,22 +53,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9zSuXxXemeGcF3mNvV0+CLx6iIo=
+			iXwBju7fEaP2n9+qi7AaBOwNKP8=
 			</data>
 			<key>hash2</key>
 			<data>
-			jx+4JVKWstX9DiQeT+t0lvEgmiqesoiZH2ePd/vQmZw=
-			</data>
-		</dict>
-		<key>LICENSE</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			b3UuYRc1ovjotpTlhhIZ0GDvh2s=
-			</data>
-			<key>hash2</key>
-			<data>
-			18AtLY4k/xZR4Css+FB1TPiUSDJDkOgU2zpZH+j+FfQ=
+			9AmRcNyFbhTMUacSw/s2k5EFJzIOeRMFJJtd7TpZZ6w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -88,17 +69,6 @@
 			<key>hash2</key>
 			<data>
 			3/zz71/15nr112cutAK/bJW5UChYFg1pOOKqnJ6QCbs=
-			</data>
-		</dict>
-		<key>README.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MMb/H/m4g96joTmjCyTbnLxBjbA=
-			</data>
-			<key>hash2</key>
-			<data>
-			lgSQNBEdrGhzJcyaJtyhr6uHXq7Ybugt3FGujdEK16g=
 			</data>
 		</dict>
 	</dict>
